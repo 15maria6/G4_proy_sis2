@@ -1,4 +1,4 @@
-# Reservación de habitaciones de un hostal
+# Sistema de reservación de habitaciones de un hostal
 
 
 ## Número de grupo: 4
