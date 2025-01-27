@@ -1,4 +1,4 @@
-# Sistema de Información para la reservacion de un hostal
+# Sistema de Información para la reservacion de habitacion de un hostal
 
 ## Número de grupo: 4
 
