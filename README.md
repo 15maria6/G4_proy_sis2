@@ -1,4 +1,4 @@
-# Sistema de Información para la reservacion de habitacion de un hostal
+# G4_proy_sis2
 
 ## Número de grupo: 4
 
