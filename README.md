@@ -1,4 +1,4 @@
-## Reservacion de habitacion de un hotal G4_proy_sis2
+## Reservacion de habitacion de un hostal G4_proy_sis2
 
 
 ## Número de grupo: 4
